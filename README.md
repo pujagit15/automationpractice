@@ -1,5 +1,3 @@
-# automationpractice
-
 # Test setup and execution instruction:
 1. Clone the GIT repository into the local machine
 2. Download the POM dependencies via maven import
